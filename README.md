@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton
-- 👀 I’m frontend developer
-- 🌱 I’m currently learning Dart & Flutter
+- 👀 I’m fullstack developer
+- 🌱 I’m currently learning Dart & Flutter & Java BackEnd stack.
 
 <!---
 Tony-Stars/Tony-Stars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
